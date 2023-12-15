@@ -18,7 +18,7 @@
 * soft voting RandomForestClassifier and ExtraTreeClassifier.
 * print accuracy of the model for the test data.
 ### Operating Instruction
-1. put test data on the path "tumor_dataset/Training"
+1. put test data on the path `"tumor_dataset/Testing"`
 #### Copyright 2023. Hong Sahoon   
 ### Contact Info   
 * E-mail: sahunhong1@gmail.com
